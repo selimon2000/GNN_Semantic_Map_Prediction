@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0043003" FloorName="50045944">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="-1" RealDistance="-1"/>
+    <space name="A0043003_4228" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4229" type="UCENTRAL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4101" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_3302"/>
+    </space>
+    <space name="A0043003_4227" type="FLÄKTRLIM">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4225" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4226" type="EL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4201" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4230" type="HM">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4207" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4206" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4204" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_05" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4209" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4210" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4210a" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4211" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4212" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4203" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4208"/>
+        <portal target="A0043003_4208a"/>
+        <portal target="A0043003_05"/>
+        <portal target="A0043003_4209"/>
+        <portal target="A0043003_4210"/>
+        <portal target="A0043003_4210a"/>
+        <portal target="A0043003_4211"/>
+        <portal target="A0043003_4212"/>
+        <portal target="A0043003_4204"/>
+        <portal target="A0043003_4206"/>
+        <portal target="A0043003_14"/>
+        <portal target="A0043003_4215"/>
+        <portal target="A0043003_17"/>
+        <portal target="A0043003_16"/>
+        <portal target="A0043003_4202"/>
+    </space>
+    <space name="A0043003_4215" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4218" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4219" type="KK">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_17" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_16" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4202" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_20" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4231" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4208" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4208a" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_3302" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4101"/>
+    </space>
+    <space name="A0043003_14" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043003_4203"/>
+    </space>
+    <space name="A0043003_4221" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4223" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4224" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_4222" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1209" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1101" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1250" type="FLÄKTRUM">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1263" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1264" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1262" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1261" type="DATAKK">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1260" type="TELE">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1258" type="UC">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1259" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1265" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_57" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1256" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1255" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1254" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1251" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_53" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_52" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1249" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1249A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1203" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1208" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_07" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1205" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1204" type="EL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1202" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1201" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1206" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1228" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1246" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1243" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_48" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_47" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_44" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_45" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1211" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1212" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1213" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1214" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1215" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1216" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1217" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1218" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1219" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1220" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1210" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1221" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_22" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_23" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1224" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1225" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1229" type="STÄLLVERK">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_27" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1239" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1240" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1238" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1241" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1242" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1237" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1231" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1235" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1233" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_30" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_32" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_36" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_34" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043003_1226" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+</floor>

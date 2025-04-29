@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0043022" FloorName="50052755">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="788.095" RealDistance="5"/>
+    <space name="A0043022_801" type="TRAPPHUS">
+        <contour>
+            <centroid x="2877.59" y="3836.48"/>
+            <linesegment x1="2621.99" y1="4234.12" x2="3133.75" y2="4234.12" type="Wall" target=""/>
+            <linesegment x1="3133.75" y1="4234.12" x2="3133.75" y2="4209" type="Wall" target=""/>
+            <linesegment x1="3133.75" y1="4209" x2="3133.75" y2="4053.13" type="Portal" target="A0043022_802"/>
+            <linesegment x1="3133.75" y1="4053.13" x2="3133.75" y2="3439.13" type="Wall" target=""/>
+            <linesegment x1="3133.75" y1="3439.13" x2="2620.87" y2="3439.13" type="Wall" target=""/>
+            <linesegment x1="2620.87" y1="3439.13" x2="2621.99" y2="4234.12" type="Wall" target=""/>
+        </contour>
+        <portal target="A0043022_802"/>
+    </space>
+    <space name="A0043022_803" type="HISSM/AHS">
+        <contour>
+            <centroid x="4015.96" y="3703.62"/>
+            <linesegment x1="3748" y1="3964" x2="3748" y2="3955" type="Wall" target=""/>
+            <linesegment x1="3748" y1="3955" x2="3748" y2="3831" type="Portal" target="A0043022_802"/>
+            <linesegment x1="3748" y1="3831" x2="3748" y2="3823" type="Wall" target=""/>
+            <linesegment x1="3748" y1="3823" x2="3764" y2="3823" type="Wall" target=""/>
+            <linesegment x1="3764" y1="3823" x2="3764" y2="3439" type="Wall" target=""/>
+            <linesegment x1="3764" y1="3439" x2="4272" y2="3439" type="Wall" target=""/>
+            <linesegment x1="4272" y1="3439" x2="4272" y2="3966" type="Wall" target=""/>
+            <linesegment x1="4272" y1="3966" x2="3748" y2="3964" type="Wall" target=""/>
+        </contour>
+        <portal target="A0043022_802"/>
+    </space>
+    <space name="A0043022_802" type="FLÄKTRUM/AHS">
+        <contour>
+            <centroid x="5396.69" y="3471.78"/>
+            <linesegment x1="3168.25" y1="4237.75" x2="3168.25" y2="4214.75" type="Wall" target=""/>
+            <linesegment x1="3168.25" y1="4214.75" x2="3151" y2="4214.75" type="Wall" target=""/>
+            <linesegment x1="3151" y1="4214.75" x2="3151" y2="4206" type="Wall" target=""/>
+            <linesegment x1="3151" y1="4206" x2="3151" y2="4053.69" type="Portal" target="A0043022_801"/>
+            <linesegment x1="3151" y1="4053.69" x2="3151" y2="4043.1" type="Wall" target=""/>
+            <linesegment x1="3151" y1="4043.1" x2="3165.97" y2="4043.1" type="Wall" target=""/>
+            <linesegment x1="3165.97" y1="4043.1" x2="3165.97" y2="2896.35" type="Wall" target=""/>
+            <linesegment x1="3165.97" y1="2896.35" x2="8346.7" y2="2896.35" type="Wall" target=""/>
+            <linesegment x1="8346.7" y1="2896.35" x2="8346.7" y2="3542.98" type="Wall" target=""/>
+            <linesegment x1="8346.7" y1="3542.98" x2="6931.22" y2="3542.98" type="Wall" target=""/>
+            <linesegment x1="6931.22" y1="3542.98" x2="6931.22" y2="3607.55" type="Wall" target=""/>
+            <linesegment x1="6931.22" y1="3607.55" x2="6931.22" y2="3930.7" type="Window" target=""/>
+            <linesegment x1="6931.22" y1="3930.7" x2="6931.22" y2="3993.95" type="Wall" target=""/>
+            <linesegment x1="6931.22" y1="3993.95" x2="5288.68" y2="3993.95" type="Wall" target=""/>
+            <linesegment x1="5288.68" y1="3993.95" x2="5288.68" y2="3960.89" type="Wall" target=""/>
+            <linesegment x1="5288.68" y1="3960.89" x2="5252.97" y2="3960.89" type="Wall" target=""/>
+            <linesegment x1="5252.97" y1="3960.89" x2="5252.97" y2="4274" type="Wall" target=""/>
+            <linesegment x1="5252.97" y1="4274" x2="4770" y2="4274" type="Window" target=""/>
+            <linesegment x1="4770" y1="4274" x2="4770" y2="4235" type="Wall" target=""/>
+            <linesegment x1="4770" y1="4235" x2="3168.25" y2="4237.75" type="Wall" target=""/>
+        </contour>
+        <portal target="A0043022_801"/>
+        <portal target="A0043022_803"/>
+    </space>
+</floor>
