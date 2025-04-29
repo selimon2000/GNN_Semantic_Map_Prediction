@@ -1,7 +1,6 @@
-split_dataset:
-
 from data_set import *
 from visualisation import *
+from split_dataset_new import *
 
 
 
@@ -156,9 +155,7 @@ test_masked_loader = DataLoader(test_masked, batch_size=1, shuffle=False)
 
 
 
-graph_completion.py:
     
-from split_dataset import *
 
 class NodeExistencePredictor(torch.nn.Module):
     def __init__(self, hidden_channels):

@@ -15,6 +15,12 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from torch_geometric.utils import to_networkx
 
+import sys
+sys.path.append('/home/selimon/capstone_v3/GNN')
+from split_dataset_new import *
+from graph_completion import *
+
+
 # Set random seeds for reproducibility ##########
 seed = 42
 random.seed(seed)
@@ -24,12 +30,6 @@ torch.cuda.manual_seed_all(seed)
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 #################################################
-
-import sys
-sys.path.append('/home/selimon/capstone_v3/GNN')
-from split_dataset_new import *
-from graph_completion import *
-
 
 
 def train_reconstruction_model_with_monitoring(model, train_loader, train_masked_loader, val_loader, 
@@ -665,17 +665,11 @@ def plot_training_curves(train_metrics, val_metrics):
     plt.grid(True)
     plt.legend()
     
-    # Ensure output directory exists
-    output_dir = "plots"
-    os.makedirs(output_dir, exist_ok=True)
-    
     # Save the plot
-    filename = f"training_curves_{train_metrics['epoch'][-1]}.png"
-    filepath = os.path.join(output_dir, filename)
     plt.tight_layout()
-    plt.savefig(filepath)
-    plt.close()
-    print(f"Training curves saved as '{filepath}'")
+    plt.show(block=False)
+    plt.savefig("your_desired_filename.png")
+    plt.close
 
 
 def main_train(device, metadata):
